@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jfewz
+- 👀 I’m interested in Data Analytics, Machine Learning and Data Visualisation
+- 🌱 I’m currently learning Python
